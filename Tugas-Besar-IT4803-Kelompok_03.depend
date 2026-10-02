@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1764919991 source:d:\tp c++\tugas-besar-it4803-kelompok_03\dokter_103032400120.cpp
+	"Dokter.h"
+	<iostream>
+
+1765978195 d:\tp c++\tugas-besar-it4803-kelompok_03\dokter.h
+	<iostream>
+
+1766069331 source:d:\tp c++\tugas-besar-it4803-kelompok_03\main.cpp
+	<iostream>
+	"main.h"
+	"Relation.h"
+	"Dokter.h"
+	"Pasien.h"
+
+1765981254 source:d:\tp c++\tugas-besar-it4803-kelompok_03\main_admin.cpp
+	<iostream>
+	"main.h"
+	"Relation.h"
+	"Dokter.h"
+	"Pasien.h"
+
+1766069517 d:\tp c++\tugas-besar-it4803-kelompok_03\main.h
+	<iostream>
+	"Dokter.h"
+	"Pasien.h"
+	"Relation.h"
+
+1765977701 d:\tp c++\tugas-besar-it4803-kelompok_03\relation.h
+	<iostream>
+	"Dokter.h"
+	"Pasien.h"
+
+1764920054 d:\tp c++\tugas-besar-it4803-kelompok_03\pasien.h
+	<iostream>
+
+1764920680 source:d:\tp c++\tugas-besar-it4803-kelompok_03\pasien_103032400120.cpp
+	"Pasien.h"
+	<iostream>
+
+1765975565 source:d:\tp c++\tugas-besar-it4803-kelompok_03\dokter_103032430035.cpp
+	"Dokter.h"
+	<iostream>
+
+1766112182 source:d:\tp c++\tugas-besar-it4803-kelompok_03\main_user.cpp
+	<iostream>
+	"main.h"
+	"Relation.h"
+	"Dokter.h"
+	"Pasien.h"
+
+1765977816 source:d:\tp c++\tugas-besar-it4803-kelompok_03\pasien_103032430035.cpp
+	<iostream>
+	"Pasien.h"
+
+1766059873 source:d:\tp c++\tugas-besar-it4803-kelompok_03\relation.cpp
+	"Relation.h"
+	<iostream>
+
